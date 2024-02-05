@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayushkum1310](https://github.com/ayushkum1310)
 
-- 💬 Ask me about **Data Analytics,Data Science,Machine Learing,Deep learning**
+- 💬 Ask me about **Data Analytics,Data Science,Machine Learing,Deep learning,Natural Language processing**
 
 - 📫 How to reach me **ayushpripl@gmail.com**
 
