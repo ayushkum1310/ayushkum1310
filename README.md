@@ -3,7 +3,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 </p>
-- 🌱 I’m currently learning **Mlops**
+- 🌱 I’m currently learning **Mlops(Machine learning operations)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayushkum1310](https://github.com/ayushkum1310)
 
