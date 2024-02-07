@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/f1eda4768df8d8135c779772f2833e88.gif" alt="Coding gif" />
 </p>
 - 🌱 I’m currently learning **Mlops(Machine learning operations)**
 
